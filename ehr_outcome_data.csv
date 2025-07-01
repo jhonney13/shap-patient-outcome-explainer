@@ -1,0 +1,1001 @@
+age,weight,gender,bp_systolic,bp_diastolic,oxygen_level,heart_rate,diagnosis,surgery_type,icu_days,outcome
+7,7.7,Female,75.0,74.0,98.6,158,ASD,Minimally Invasive,3,0
+15,19.1,Male,89.0,68.0,96.8,96,PDA,Minimally Invasive,5,0
+11,11.4,Female,90.0,61.0,92.3,112,PDA,Open,1,0
+8,21.0,Female,119.0,69.0,99.2,126,TOF,Open,4,0
+7,21.7,Male,110.0,55.0,85.9,131,PDA,Minimally Invasive,0,1
+11,21.6,Male,103.0,66.0,99.0,159,ASD,Minimally Invasive,2,0
+11,16.6,Female,104.0,66.0,85.8,172,ASD,Open,2,0
+4,36.1,Female,124.0,61.0,93.2,88,PDA,Open,1,0
+8,11.1,Male,97.0,57.0,98.4,112,VSD,Open,4,1
+3,10.7,Male,80.0,66.0,88.9,139,VSD,Open,5,0
+2,31.6,Male,116.0,64.0,92.1,172,ASD,Open,2,0
+12,15.1,Female,103.0,60.0,89.9,156,VSD,Minimally Invasive,4,0
+6,13.4,Male,114.0,55.0,99.3,100,TOF,Open,4,0
+2,36.1,Male,99.0,65.0,97.4,137,TOF,Open,2,0
+1,26.9,Female,87.0,60.0,95.6,164,PDA,Open,2,0
+12,15.8,Female,106.0,55.0,93.8,148,PDA,Open,3,0
+12,21.5,Female,100.0,65.0,97.3,89,VSD,Open,3,0
+17,33.6,Female,103.0,81.0,90.9,85,ASD,Minimally Invasive,3,1
+10,24.8,Female,124.0,61.0,91.7,92,PDA,Open,4,0
+16,29.0,Male,84.0,80.0,96.0,144,TOF,Minimally Invasive,5,0
+15,25.6,Male,104.0,86.0,90.4,99,PDA,Open,4,1
+15,26.5,Female,88.0,55.0,86.0,136,PDA,Minimally Invasive,4,1
+12,20.3,Female,61.0,65.0,86.1,125,TOF,Minimally Invasive,2,1
+3,20.1,Female,99.0,86.0,86.7,87,ASD,Open,2,1
+5,21.9,Female,100.0,64.0,98.0,89,PDA,Open,5,1
+7,25.1,Female,109.0,65.0,92.1,152,PDA,Open,2,0
+9,18.0,Male,97.0,48.0,95.7,146,PDA,Open,1,1
+7,20.9,Male,78.0,60.0,90.9,90,VSD,Open,2,1
+4,17.8,Male,88.0,71.0,88.9,91,PDA,Minimally Invasive,4,0
+14,20.8,Male,120.0,89.0,90.2,89,TOF,Open,2,0
+9,11.2,Female,87.0,63.0,96.9,104,ASD,Open,4,1
+2,38.2,Male,124.0,48.0,94.4,128,ASD,Minimally Invasive,1,0
+15,14.9,Female,116.0,51.0,99.1,128,TOF,Open,3,1
+7,17.5,Female,95.0,65.0,95.2,168,VSD,Minimally Invasive,5,0
+12,14.3,Female,89.0,77.0,93.6,90,TOF,Open,4,0
+8,24.3,Male,116.0,71.0,94.2,141,ASD,Minimally Invasive,1,0
+15,18.6,Female,96.0,70.0,99.1,115,TOF,Open,2,0
+3,13.3,Male,77.0,78.0,96.8,118,VSD,Minimally Invasive,2,0
+14,24.6,Male,108.0,58.0,85.4,132,ASD,Minimally Invasive,7,0
+17,25.5,Female,106.0,65.0,93.0,169,VSD,Open,2,0
+4,19.5,Female,117.0,60.0,95.3,157,TOF,Open,3,0
+8,15.4,Female,105.0,62.0,96.2,135,PDA,Open,3,0
+4,35.3,Male,92.0,55.0,88.2,80,TOF,Minimally Invasive,6,0
+2,22.4,Female,119.0,62.0,98.0,135,VSD,Minimally Invasive,2,0
+6,11.1,Male,121.0,65.0,99.3,83,TOF,Minimally Invasive,2,0
+10,29.9,Female,103.0,61.0,88.6,109,PDA,Open,2,0
+4,14.0,Female,101.0,63.0,98.2,91,VSD,Open,1,0
+12,39.2,Male,80.0,69.0,86.5,114,TOF,Minimally Invasive,3,0
+2,20.6,Male,91.0,77.0,85.8,156,VSD,Open,5,0
+10,27.1,Male,111.0,78.0,86.9,131,VSD,Minimally Invasive,4,0
+4,5.4,Male,92.0,73.0,85.9,110,ASD,Open,4,1
+14,11.0,Male,78.0,52.0,97.7,166,ASD,Open,3,1
+16,29.3,Male,152.0,61.0,85.9,147,VSD,Minimally Invasive,2,1
+15,22.2,Female,78.0,62.0,89.1,131,TOF,Open,4,0
+8,34.3,Female,134.0,58.0,86.6,159,TOF,Open,3,0
+14,23.4,Male,95.0,68.0,89.4,86,TOF,Open,3,0
+8,21.0,Female,99.0,49.0,86.4,101,PDA,Open,1,0
+16,32.0,Male,90.0,82.0,95.0,172,VSD,Open,4,1
+13,27.1,Female,112.0,77.0,87.0,154,VSD,Minimally Invasive,3,0
+15,18.6,Female,78.0,70.0,97.8,135,PDA,Open,1,0
+13,12.3,Male,72.0,64.0,97.3,176,VSD,Minimally Invasive,1,0
+9,3.4,Male,124.0,77.0,85.2,137,VSD,Open,1,1
+15,16.9,Male,88.0,72.0,98.4,172,PDA,Open,2,1
+13,11.7,Female,111.0,76.0,85.4,143,ASD,Minimally Invasive,3,0
+1,38.2,Male,84.0,64.0,88.6,91,VSD,Minimally Invasive,3,1
+7,15.4,Female,111.0,83.0,85.5,86,PDA,Open,3,0
+9,15.3,Male,125.0,77.0,90.0,134,TOF,Open,1,1
+1,9.4,Female,92.0,70.0,92.7,141,ASD,Minimally Invasive,3,1
+12,18.1,Female,71.0,78.0,96.9,169,TOF,Minimally Invasive,2,1
+8,15.3,Male,125.0,61.0,90.1,152,VSD,Minimally Invasive,1,0
+11,32.2,Female,114.0,53.0,95.6,177,ASD,Minimally Invasive,1,0
+17,21.2,Female,93.0,68.0,87.8,156,PDA,Open,1,0
+8,19.9,Male,97.0,64.0,96.3,134,VSD,Open,4,0
+3,19.1,Female,83.0,63.0,88.5,115,PDA,Open,3,1
+3,25.5,Male,121.0,77.0,87.2,168,ASD,Open,2,0
+1,16.8,Male,92.0,67.0,87.8,103,TOF,Open,2,0
+5,24.7,Male,79.0,68.0,87.7,123,VSD,Minimally Invasive,3,0
+10,31.3,Male,103.0,62.0,92.7,96,VSD,Minimally Invasive,2,0
+7,23.2,Female,87.0,74.0,97.7,81,PDA,Minimally Invasive,4,0
+9,18.3,Female,85.0,72.0,86.2,92,ASD,Open,2,0
+7,13.3,Female,94.0,74.0,95.6,110,PDA,Minimally Invasive,3,0
+9,18.1,Male,101.0,60.0,94.8,172,ASD,Open,5,0
+8,23.9,Female,79.0,78.0,98.1,107,VSD,Open,5,1
+12,9.3,Female,121.0,83.0,88.7,139,ASD,Open,2,0
+2,25.8,Male,110.0,73.0,91.8,106,VSD,Minimally Invasive,1,1
+1,21.5,Male,95.0,57.0,98.9,94,ASD,Open,1,0
+16,19.0,Female,86.0,57.0,94.9,174,TOF,Open,4,0
+5,15.4,Male,99.0,61.0,90.8,158,ASD,Minimally Invasive,1,0
+3,16.7,Male,113.0,59.0,87.0,112,TOF,Open,4,0
+12,24.2,Male,111.0,64.0,88.9,99,ASD,Minimally Invasive,1,0
+8,19.1,Male,116.0,71.0,93.7,121,ASD,Open,5,0
+3,16.5,Female,93.0,68.0,95.8,91,PDA,Minimally Invasive,1,0
+1,23.3,Male,56.0,67.0,86.9,152,PDA,Open,1,0
+3,23.6,Male,119.0,63.0,94.0,102,VSD,Open,2,0
+5,11.3,Male,97.0,64.0,93.3,151,PDA,Minimally Invasive,4,0
+15,24.0,Male,110.0,73.0,92.7,175,ASD,Open,0,0
+14,37.5,Male,125.0,45.0,95.4,93,PDA,Minimally Invasive,4,1
+3,23.3,Male,137.0,65.0,97.6,170,ASD,Open,0,0
+1,8.1,Male,90.0,68.0,89.8,104,TOF,Minimally Invasive,1,0
+5,21.2,Male,102.0,73.0,98.3,156,ASD,Open,3,1
+14,7.2,Female,121.0,55.0,87.4,164,VSD,Open,1,0
+7,42.2,Male,87.0,54.0,87.6,110,TOF,Open,4,1
+9,35.6,Female,91.0,71.0,89.0,133,VSD,Minimally Invasive,3,0
+15,15.3,Male,91.0,46.0,86.8,84,VSD,Minimally Invasive,2,1
+15,4.3,Male,100.0,78.0,88.5,92,VSD,Minimally Invasive,4,0
+10,13.9,Male,97.0,67.0,86.6,107,PDA,Minimally Invasive,7,1
+13,18.7,Male,91.0,81.0,97.3,122,VSD,Minimally Invasive,4,0
+7,7.7,Female,86.0,54.0,87.1,168,TOF,Open,4,0
+17,19.5,Male,112.0,61.0,96.2,178,ASD,Open,3,0
+4,18.7,Male,120.0,41.0,85.7,126,VSD,Open,3,0
+5,20.9,Female,122.0,57.0,99.2,150,TOF,Open,2,0
+7,21.6,Female,93.0,63.0,95.7,117,VSD,Open,2,0
+13,13.2,Male,113.0,45.0,85.1,175,ASD,Minimally Invasive,3,1
+15,14.0,Female,104.0,61.0,96.5,146,TOF,Open,3,0
+11,20.3,Female,91.0,45.0,92.7,141,TOF,Minimally Invasive,2,1
+4,15.6,Female,111.0,62.0,96.7,118,ASD,Open,3,0
+13,26.4,Male,91.0,76.0,92.8,116,TOF,Minimally Invasive,3,1
+7,20.3,Male,94.0,65.0,94.6,165,ASD,Minimally Invasive,3,1
+2,33.1,Male,79.0,82.0,96.8,87,TOF,Minimally Invasive,4,0
+10,25.7,Female,93.0,73.0,91.1,160,TOF,Open,3,1
+13,27.7,Male,104.0,78.0,85.0,131,ASD,Open,8,1
+6,20.9,Female,124.0,57.0,97.7,170,ASD,Open,3,0
+12,21.1,Male,95.0,57.0,90.7,112,TOF,Open,2,0
+12,32.1,Male,84.0,68.0,92.4,160,TOF,Minimally Invasive,4,0
+11,17.4,Female,122.0,49.0,85.1,121,ASD,Minimally Invasive,0,1
+7,23.8,Male,92.0,70.0,92.4,155,PDA,Minimally Invasive,4,0
+1,18.1,Female,74.0,62.0,99.8,106,ASD,Minimally Invasive,2,0
+1,18.1,Female,102.0,78.0,89.2,87,TOF,Open,1,0
+13,11.8,Male,95.0,72.0,90.9,102,TOF,Minimally Invasive,2,0
+9,14.8,Female,135.0,76.0,95.3,143,TOF,Open,1,1
+3,13.5,Male,107.0,57.0,97.2,172,ASD,Minimally Invasive,1,1
+7,24.2,Male,98.0,75.0,91.3,99,TOF,Minimally Invasive,4,0
+6,27.3,Female,86.0,79.0,89.6,95,PDA,Minimally Invasive,3,0
+8,19.3,Male,105.0,65.0,99.1,96,VSD,Open,2,0
+9,21.6,Female,122.0,58.0,95.2,159,PDA,Open,3,0
+5,18.9,Male,105.0,58.0,86.8,98,ASD,Minimally Invasive,3,0
+1,14.3,Male,87.0,77.0,86.0,87,TOF,Minimally Invasive,3,0
+10,26.0,Male,108.0,92.0,92.3,117,ASD,Minimally Invasive,5,0
+12,24.6,Male,99.0,55.0,88.3,117,VSD,Open,4,0
+15,6.8,Male,107.0,54.0,88.8,132,ASD,Open,1,0
+9,18.0,Female,95.0,74.0,98.2,172,TOF,Open,2,0
+17,13.8,Female,94.0,57.0,86.3,179,VSD,Minimally Invasive,3,1
+17,17.3,Female,94.0,75.0,95.7,169,VSD,Open,3,0
+12,15.3,Female,114.0,70.0,89.1,110,TOF,Minimally Invasive,5,0
+7,19.7,Female,94.0,65.0,96.4,123,TOF,Open,2,1
+2,17.7,Female,93.0,69.0,95.8,139,TOF,Minimally Invasive,3,0
+3,17.5,Male,86.0,69.0,85.1,155,ASD,Minimally Invasive,4,0
+17,27.8,Male,107.0,63.0,92.6,96,PDA,Open,2,0
+5,23.9,Female,105.0,47.0,87.1,158,ASD,Minimally Invasive,2,0
+17,15.1,Female,93.0,67.0,98.0,152,ASD,Minimally Invasive,1,1
+17,16.1,Male,89.0,81.0,98.1,118,PDA,Minimally Invasive,3,0
+17,23.4,Male,128.0,49.0,91.3,121,TOF,Open,4,0
+2,23.4,Male,72.0,55.0,91.7,127,TOF,Minimally Invasive,6,0
+2,15.8,Female,107.0,69.0,89.5,91,PDA,Open,2,0
+5,18.4,Female,119.0,65.0,95.7,175,PDA,Open,5,1
+1,32.9,Female,49.0,69.0,90.4,168,ASD,Minimally Invasive,4,1
+1,15.9,Male,112.0,58.0,89.0,97,VSD,Open,7,0
+2,33.4,Male,97.0,77.0,91.5,158,PDA,Minimally Invasive,4,0
+12,27.7,Female,104.0,65.0,86.4,175,ASD,Open,3,0
+6,32.1,Female,95.0,72.0,96.2,85,VSD,Minimally Invasive,2,0
+4,15.6,Male,116.0,68.0,85.2,122,TOF,Open,5,0
+11,18.8,Male,105.0,67.0,94.7,114,TOF,Minimally Invasive,6,0
+17,16.9,Male,102.0,71.0,87.7,177,ASD,Minimally Invasive,2,0
+6,27.9,Male,87.0,67.0,88.5,133,ASD,Minimally Invasive,2,1
+5,16.0,Female,128.0,53.0,94.5,141,PDA,Minimally Invasive,2,0
+2,25.1,Male,100.0,76.0,99.9,148,TOF,Open,1,0
+6,24.7,Male,134.0,73.0,96.7,161,ASD,Open,4,0
+11,19.7,Male,129.0,44.0,88.4,95,TOF,Minimally Invasive,5,1
+16,29.1,Female,73.0,58.0,87.6,87,TOF,Open,5,0
+16,20.8,Female,90.0,75.0,98.0,168,PDA,Minimally Invasive,5,0
+1,25.8,Male,84.0,47.0,91.7,175,VSD,Minimally Invasive,3,0
+9,16.5,Male,99.0,74.0,87.1,169,PDA,Open,5,1
+6,14.9,Male,103.0,64.0,97.9,165,ASD,Open,3,0
+16,25.1,Female,103.0,78.0,97.2,110,PDA,Minimally Invasive,0,0
+3,23.0,Female,116.0,65.0,99.8,89,PDA,Open,2,1
+4,21.7,Female,122.0,58.0,98.6,135,TOF,Minimally Invasive,2,1
+3,17.6,Male,115.0,68.0,97.8,155,PDA,Open,3,0
+7,30.8,Female,92.0,65.0,85.8,171,ASD,Open,3,0
+9,12.2,Male,88.0,57.0,86.6,149,VSD,Open,4,0
+1,11.8,Male,100.0,87.0,93.5,99,PDA,Open,4,0
+8,26.6,Male,106.0,55.0,93.0,84,PDA,Open,3,1
+7,26.0,Female,97.0,43.0,91.9,102,VSD,Minimally Invasive,2,0
+8,22.5,Male,80.0,81.0,91.0,88,ASD,Open,2,1
+1,18.0,Female,110.0,59.0,91.5,137,ASD,Open,4,0
+11,23.5,Female,94.0,62.0,93.5,138,PDA,Minimally Invasive,3,0
+10,32.0,Male,94.0,61.0,85.0,172,TOF,Minimally Invasive,0,0
+3,37.6,Male,99.0,59.0,88.9,159,PDA,Minimally Invasive,4,0
+7,8.4,Female,96.0,57.0,92.8,133,VSD,Open,3,0
+16,17.1,Male,95.0,55.0,95.8,125,VSD,Open,2,0
+16,16.6,Female,81.0,66.0,87.6,101,VSD,Minimally Invasive,1,0
+17,31.4,Male,98.0,61.0,93.2,143,PDA,Minimally Invasive,3,0
+2,2.6,Female,111.0,72.0,95.7,87,PDA,Minimally Invasive,3,0
+1,23.6,Female,104.0,70.0,91.7,99,ASD,Minimally Invasive,2,0
+16,18.2,Female,114.0,56.0,85.4,130,TOF,Open,1,0
+12,31.5,Female,89.0,66.0,91.7,157,PDA,Open,3,0
+5,30.5,Male,81.0,61.0,89.4,118,ASD,Open,5,0
+5,22.6,Male,96.0,55.0,98.9,116,PDA,Open,4,0
+9,8.9,Female,91.0,72.0,86.9,129,ASD,Open,3,0
+9,16.0,Female,92.0,64.0,94.8,113,ASD,Minimally Invasive,4,0
+3,16.7,Male,103.0,61.0,85.8,154,TOF,Open,6,0
+16,10.7,Male,92.0,56.0,91.7,112,PDA,Minimally Invasive,4,1
+16,28.1,Male,81.0,55.0,93.3,110,ASD,Minimally Invasive,2,0
+3,9.8,Male,92.0,85.0,89.5,133,VSD,Minimally Invasive,2,0
+1,33.8,Male,105.0,68.0,91.8,123,VSD,Open,2,0
+11,33.7,Male,110.0,54.0,87.5,113,VSD,Minimally Invasive,2,1
+17,17.3,Female,110.0,68.0,89.6,150,TOF,Open,2,0
+8,22.3,Male,106.0,76.0,94.3,141,ASD,Minimally Invasive,2,0
+4,19.5,Male,97.0,67.0,89.5,102,TOF,Open,2,0
+6,26.3,Female,106.0,79.0,98.5,125,PDA,Minimally Invasive,1,0
+8,28.9,Male,99.0,50.0,94.4,135,PDA,Open,2,1
+3,21.8,Male,102.0,45.0,91.6,86,ASD,Minimally Invasive,1,0
+16,23.3,Male,86.0,68.0,85.6,168,VSD,Minimally Invasive,4,0
+3,15.7,Male,101.0,68.0,92.5,140,ASD,Minimally Invasive,1,1
+14,23.1,Male,106.0,32.0,96.5,82,ASD,Minimally Invasive,4,0
+2,21.1,Female,105.0,59.0,89.0,117,ASD,Open,2,0
+3,13.6,Male,81.0,55.0,97.1,163,TOF,Open,1,0
+16,19.9,Female,101.0,51.0,88.8,113,PDA,Open,4,0
+9,17.3,Female,78.0,55.0,97.4,123,ASD,Minimally Invasive,4,0
+4,15.7,Male,103.0,71.0,86.3,109,ASD,Minimally Invasive,4,0
+1,12.0,Female,89.0,55.0,98.0,96,ASD,Minimally Invasive,2,0
+4,20.4,Male,126.0,55.0,92.5,138,TOF,Minimally Invasive,2,1
+1,14.5,Female,102.0,49.0,89.4,89,TOF,Minimally Invasive,2,1
+14,16.7,Female,112.0,78.0,89.0,178,TOF,Minimally Invasive,2,0
+16,27.5,Male,132.0,69.0,91.5,163,ASD,Open,2,0
+8,24.4,Male,88.0,40.0,100.0,97,VSD,Open,5,1
+7,13.1,Male,107.0,55.0,88.3,124,VSD,Open,1,0
+3,22.5,Male,82.0,70.0,86.5,170,VSD,Open,1,0
+17,20.9,Male,105.0,78.0,93.8,138,PDA,Open,5,0
+1,31.9,Female,126.0,73.0,92.3,141,ASD,Open,3,0
+16,29.7,Female,91.0,61.0,92.9,138,VSD,Open,2,0
+12,9.3,Female,87.0,46.0,95.0,128,VSD,Open,4,1
+14,26.0,Female,99.0,74.0,89.0,179,VSD,Minimally Invasive,2,0
+6,28.9,Female,131.0,62.0,98.7,142,ASD,Minimally Invasive,3,1
+6,23.9,Female,112.0,66.0,91.5,166,VSD,Minimally Invasive,3,0
+13,17.7,Female,86.0,63.0,86.9,111,VSD,Minimally Invasive,4,1
+8,36.9,Male,122.0,51.0,96.1,89,ASD,Minimally Invasive,4,0
+2,24.6,Male,75.0,69.0,94.6,90,PDA,Minimally Invasive,2,0
+1,33.8,Female,132.0,67.0,89.7,149,TOF,Minimally Invasive,2,0
+15,29.5,Female,113.0,61.0,94.3,141,VSD,Open,1,0
+1,23.2,Male,126.0,70.0,88.3,126,TOF,Open,6,0
+5,15.9,Male,75.0,51.0,91.7,113,PDA,Minimally Invasive,4,0
+16,19.8,Male,103.0,62.0,98.5,179,PDA,Open,3,0
+4,18.4,Male,98.0,65.0,87.0,96,VSD,Open,2,0
+3,11.5,Female,85.0,48.0,90.8,133,ASD,Open,2,0
+17,24.6,Male,81.0,64.0,97.3,155,PDA,Open,2,0
+17,31.0,Female,108.0,72.0,99.5,164,TOF,Open,5,0
+12,17.9,Female,109.0,62.0,91.8,119,TOF,Minimally Invasive,1,1
+14,35.1,Female,119.0,65.0,92.6,98,TOF,Open,3,0
+6,9.1,Male,92.0,71.0,93.6,146,TOF,Minimally Invasive,1,1
+3,27.4,Male,98.0,61.0,99.0,161,PDA,Minimally Invasive,1,0
+9,31.7,Female,79.0,62.0,97.9,132,VSD,Minimally Invasive,7,0
+5,18.6,Female,123.0,53.0,87.6,143,VSD,Open,6,0
+17,18.7,Female,101.0,65.0,91.6,162,TOF,Minimally Invasive,1,0
+14,27.3,Male,111.0,62.0,92.0,126,VSD,Minimally Invasive,5,0
+3,23.5,Female,111.0,70.0,96.8,85,TOF,Minimally Invasive,3,0
+1,6.0,Male,122.0,71.0,94.0,95,TOF,Minimally Invasive,2,0
+1,14.1,Female,88.0,73.0,94.8,151,ASD,Open,3,0
+3,19.9,Female,110.0,60.0,100.0,97,PDA,Minimally Invasive,3,0
+10,10.4,Female,100.0,43.0,86.1,131,PDA,Minimally Invasive,4,0
+3,16.7,Male,132.0,72.0,88.3,127,TOF,Minimally Invasive,6,0
+8,10.6,Male,87.0,69.0,91.1,122,PDA,Minimally Invasive,3,0
+14,17.4,Female,118.0,59.0,90.2,118,VSD,Open,3,0
+15,17.6,Male,105.0,71.0,85.3,128,TOF,Minimally Invasive,5,0
+2,22.5,Female,104.0,51.0,86.4,91,ASD,Minimally Invasive,0,0
+10,19.4,Male,101.0,75.0,95.2,89,VSD,Minimally Invasive,5,0
+2,23.5,Male,120.0,62.0,98.2,150,ASD,Minimally Invasive,2,0
+17,22.7,Male,104.0,57.0,92.7,134,ASD,Minimally Invasive,1,0
+8,27.2,Female,77.0,59.0,93.1,80,PDA,Minimally Invasive,4,0
+1,26.1,Male,118.0,63.0,88.8,128,PDA,Open,4,0
+9,25.4,Male,116.0,65.0,96.5,115,TOF,Minimally Invasive,5,0
+11,41.7,Female,109.0,65.0,96.3,100,PDA,Open,2,0
+16,22.4,Female,83.0,61.0,93.8,116,ASD,Open,2,0
+7,38.2,Female,85.0,67.0,88.2,103,ASD,Minimally Invasive,4,0
+10,22.9,Female,72.0,65.0,86.5,134,VSD,Open,4,1
+3,19.4,Male,107.0,59.0,86.0,104,ASD,Minimally Invasive,3,0
+13,17.4,Male,80.0,57.0,93.9,86,TOF,Open,1,0
+7,30.6,Male,74.0,71.0,97.4,160,TOF,Minimally Invasive,1,0
+4,31.5,Male,119.0,70.0,97.9,172,PDA,Open,1,0
+13,24.2,Male,112.0,66.0,92.0,173,PDA,Open,1,1
+1,27.9,Female,95.0,74.0,96.8,150,PDA,Minimally Invasive,4,0
+8,11.1,Male,98.0,45.0,99.2,176,TOF,Open,3,1
+14,9.2,Male,64.0,59.0,89.1,150,ASD,Open,4,0
+16,28.7,Male,114.0,53.0,91.0,103,PDA,Open,3,0
+14,19.1,Female,90.0,88.0,99.0,90,VSD,Open,3,0
+12,25.2,Female,105.0,72.0,90.1,152,PDA,Open,3,0
+15,15.0,Male,63.0,64.0,98.7,91,TOF,Minimally Invasive,0,0
+2,31.6,Female,115.0,73.0,99.7,114,PDA,Open,6,0
+2,9.2,Female,89.0,76.0,94.9,142,ASD,Open,4,0
+17,10.3,Female,79.0,76.0,97.3,147,PDA,Minimally Invasive,1,1
+10,30.1,Female,95.0,74.0,96.2,179,TOF,Minimally Invasive,6,0
+6,1.7,Female,91.0,62.0,95.5,171,TOF,Minimally Invasive,1,0
+15,22.6,Female,116.0,60.0,89.6,136,VSD,Open,3,0
+11,19.2,Female,94.0,55.0,85.9,92,TOF,Open,6,0
+5,14.8,Male,120.0,70.0,90.1,102,VSD,Open,3,0
+1,18.6,Male,105.0,63.0,95.0,162,ASD,Open,1,0
+8,14.1,Female,113.0,61.0,86.5,118,TOF,Minimally Invasive,4,0
+12,30.8,Male,100.0,60.0,85.2,167,PDA,Minimally Invasive,1,0
+12,32.6,Male,119.0,80.0,87.1,159,ASD,Open,4,0
+5,15.2,Female,83.0,75.0,95.7,176,PDA,Open,5,0
+7,21.9,Male,102.0,83.0,99.6,91,PDA,Open,1,1
+4,10.7,Female,94.0,70.0,99.7,113,PDA,Open,2,0
+6,27.5,Female,121.0,66.0,92.4,150,ASD,Minimally Invasive,5,0
+13,27.3,Female,122.0,65.0,98.0,154,ASD,Minimally Invasive,9,0
+15,17.9,Male,100.0,55.0,96.1,110,TOF,Open,5,1
+3,20.1,Male,81.0,52.0,92.5,172,PDA,Minimally Invasive,4,0
+8,19.3,Male,106.0,70.0,93.6,141,VSD,Open,4,0
+16,8.7,Male,75.0,56.0,87.1,92,TOF,Open,4,0
+13,30.8,Female,124.0,67.0,99.1,110,ASD,Minimally Invasive,3,0
+10,14.6,Female,93.0,76.0,90.3,81,VSD,Open,2,0
+17,14.7,Male,100.0,58.0,91.7,94,ASD,Minimally Invasive,2,0
+5,18.9,Female,90.0,85.0,95.1,136,VSD,Open,7,0
+9,27.0,Female,86.0,55.0,90.0,154,TOF,Minimally Invasive,4,0
+12,15.9,Male,111.0,75.0,88.8,113,VSD,Open,3,0
+1,6.3,Female,98.0,69.0,94.5,147,TOF,Minimally Invasive,1,1
+1,13.8,Male,101.0,77.0,85.4,154,ASD,Open,1,0
+15,23.0,Female,85.0,54.0,95.8,108,VSD,Open,2,0
+2,35.3,Male,113.0,88.0,92.7,145,PDA,Minimally Invasive,2,0
+16,11.2,Female,114.0,63.0,94.1,95,PDA,Open,4,0
+8,10.9,Female,97.0,72.0,94.5,118,ASD,Minimally Invasive,3,0
+13,9.4,Male,119.0,79.0,92.9,156,VSD,Minimally Invasive,4,1
+1,8.5,Male,98.0,59.0,93.7,116,PDA,Open,6,1
+16,28.4,Male,112.0,73.0,95.3,160,TOF,Open,2,0
+7,30.5,Male,76.0,57.0,96.3,100,VSD,Open,5,0
+5,21.2,Female,105.0,79.0,95.9,123,VSD,Open,1,0
+3,16.7,Female,96.0,57.0,98.0,98,PDA,Minimally Invasive,4,0
+12,32.5,Male,102.0,65.0,87.8,150,TOF,Open,2,0
+16,21.2,Female,102.0,68.0,91.0,87,TOF,Open,5,0
+5,27.6,Male,102.0,73.0,99.2,156,TOF,Open,2,0
+14,16.4,Male,109.0,85.0,90.9,145,VSD,Minimally Invasive,4,0
+5,20.3,Female,92.0,60.0,86.9,120,ASD,Open,2,0
+15,11.3,Female,109.0,76.0,92.9,154,VSD,Minimally Invasive,6,0
+17,24.4,Male,118.0,85.0,86.6,167,VSD,Open,2,0
+14,21.3,Male,79.0,67.0,88.0,149,PDA,Minimally Invasive,0,0
+5,13.7,Male,88.0,59.0,100.0,140,ASD,Open,2,0
+12,13.8,Female,89.0,48.0,93.1,105,TOF,Open,3,0
+16,31.3,Female,84.0,84.0,89.3,150,PDA,Minimally Invasive,2,0
+16,33.8,Female,93.0,63.0,99.9,162,VSD,Open,4,0
+7,18.5,Female,115.0,55.0,99.5,149,ASD,Open,2,0
+4,20.5,Male,122.0,51.0,91.6,108,TOF,Open,2,1
+1,22.8,Male,102.0,55.0,88.9,145,TOF,Minimally Invasive,4,0
+5,21.0,Male,95.0,74.0,97.6,98,VSD,Open,1,0
+10,8.3,Male,112.0,76.0,95.7,147,TOF,Minimally Invasive,1,0
+5,23.0,Male,65.0,72.0,95.3,137,TOF,Minimally Invasive,4,1
+4,5.4,Male,84.0,66.0,98.4,149,ASD,Minimally Invasive,3,0
+2,14.9,Female,65.0,53.0,95.3,136,PDA,Open,8,1
+10,23.5,Female,84.0,58.0,89.3,116,ASD,Minimally Invasive,1,0
+1,24.2,Male,88.0,54.0,95.4,140,PDA,Minimally Invasive,4,1
+5,14.3,Male,122.0,71.0,89.6,171,PDA,Open,2,0
+13,16.8,Female,59.0,54.0,96.4,109,PDA,Minimally Invasive,2,0
+4,15.8,Female,94.0,58.0,94.3,150,TOF,Minimally Invasive,3,1
+16,19.3,Female,109.0,63.0,86.2,152,ASD,Open,4,1
+16,19.8,Female,106.0,48.0,92.7,104,TOF,Open,3,0
+2,24.7,Male,122.0,65.0,90.1,176,VSD,Minimally Invasive,4,0
+17,16.4,Male,102.0,64.0,89.9,144,ASD,Open,5,0
+12,22.6,Male,106.0,77.0,94.0,85,PDA,Open,5,0
+3,23.5,Male,72.0,57.0,89.8,97,TOF,Open,2,0
+1,21.4,Male,85.0,52.0,96.7,89,TOF,Minimally Invasive,5,1
+1,18.2,Female,73.0,61.0,86.1,171,ASD,Minimally Invasive,3,0
+11,21.3,Male,109.0,54.0,94.9,90,ASD,Open,5,0
+5,25.3,Female,105.0,65.0,97.1,176,PDA,Minimally Invasive,3,0
+12,25.9,Male,105.0,46.0,95.1,144,PDA,Open,6,0
+3,32.7,Male,87.0,59.0,92.5,156,VSD,Open,1,0
+1,13.1,Male,85.0,56.0,99.3,163,PDA,Open,1,0
+1,16.9,Male,103.0,71.0,89.5,144,TOF,Open,4,0
+8,8.7,Male,90.0,57.0,85.3,131,VSD,Open,3,0
+10,26.5,Female,85.0,48.0,91.5,146,VSD,Minimally Invasive,7,0
+11,17.7,Female,92.0,63.0,85.5,161,VSD,Minimally Invasive,2,1
+12,21.4,Female,90.0,68.0,99.3,157,ASD,Minimally Invasive,0,1
+13,15.8,Male,87.0,62.0,88.1,110,PDA,Minimally Invasive,2,0
+12,17.7,Male,82.0,59.0,96.8,170,VSD,Open,3,0
+14,28.6,Female,107.0,58.0,96.6,96,ASD,Open,2,0
+2,24.9,Male,123.0,66.0,88.3,134,ASD,Minimally Invasive,3,0
+3,19.2,Male,99.0,56.0,94.3,172,VSD,Minimally Invasive,3,0
+17,25.4,Female,103.0,62.0,85.7,115,VSD,Open,1,0
+8,25.5,Male,108.0,73.0,92.3,105,TOF,Open,4,0
+10,17.3,Female,105.0,52.0,85.2,132,VSD,Open,4,0
+2,9.7,Male,87.0,65.0,98.8,96,TOF,Minimally Invasive,4,0
+9,13.7,Female,126.0,47.0,99.6,165,VSD,Open,3,1
+7,10.6,Male,89.0,67.0,88.3,104,VSD,Open,2,0
+4,28.2,Male,110.0,55.0,88.1,81,PDA,Minimally Invasive,2,1
+13,29.4,Female,108.0,75.0,96.3,165,VSD,Minimally Invasive,2,0
+11,31.1,Male,71.0,50.0,88.8,84,VSD,Minimally Invasive,0,0
+4,5.9,Male,95.0,69.0,98.4,83,TOF,Open,4,0
+4,27.5,Female,101.0,77.0,93.6,115,TOF,Open,2,0
+10,35.5,Male,102.0,55.0,90.3,85,PDA,Minimally Invasive,4,0
+5,27.8,Female,105.0,56.0,97.5,100,VSD,Open,2,0
+9,4.9,Male,111.0,56.0,92.4,156,VSD,Open,7,0
+3,32.4,Male,100.0,60.0,98.7,168,TOF,Open,5,0
+17,20.3,Male,105.0,70.0,98.9,105,ASD,Minimally Invasive,3,1
+3,18.4,Male,99.0,59.0,87.5,134,ASD,Minimally Invasive,1,0
+16,23.2,Female,85.0,54.0,85.0,118,ASD,Open,4,0
+4,12.7,Male,100.0,45.0,99.8,163,TOF,Open,1,0
+17,20.0,Female,111.0,81.0,98.6,112,TOF,Open,2,0
+7,31.3,Male,117.0,82.0,85.8,93,ASD,Open,2,0
+5,24.4,Male,108.0,71.0,97.5,135,ASD,Minimally Invasive,4,0
+12,20.4,Male,120.0,57.0,91.9,179,VSD,Minimally Invasive,5,0
+17,20.6,Male,106.0,72.0,88.9,160,TOF,Open,2,0
+13,11.7,Female,113.0,74.0,98.2,100,TOF,Open,2,0
+3,19.0,Female,114.0,62.0,88.0,125,ASD,Minimally Invasive,2,0
+9,8.6,Female,97.0,65.0,99.2,95,ASD,Open,3,1
+17,27.2,Female,111.0,77.0,88.1,95,PDA,Minimally Invasive,4,0
+17,4.7,Male,86.0,49.0,94.2,163,TOF,Open,1,0
+16,26.0,Female,105.0,75.0,88.3,108,PDA,Minimally Invasive,4,1
+13,26.9,Female,109.0,62.0,93.2,171,VSD,Open,5,0
+17,29.2,Male,116.0,54.0,95.3,87,PDA,Open,1,0
+4,20.6,Male,112.0,55.0,87.9,167,ASD,Minimally Invasive,2,0
+12,26.4,Male,116.0,56.0,92.8,82,TOF,Minimally Invasive,3,0
+9,18.9,Male,99.0,53.0,92.0,168,TOF,Open,1,1
+12,11.7,Female,95.0,83.0,86.1,98,PDA,Open,3,0
+9,30.7,Female,96.0,70.0,97.3,176,PDA,Minimally Invasive,4,0
+7,19.3,Male,104.0,76.0,90.0,145,VSD,Minimally Invasive,4,0
+14,10.1,Male,73.0,71.0,93.6,158,VSD,Open,3,1
+15,16.7,Male,120.0,66.0,92.7,165,ASD,Open,5,0
+16,17.0,Female,101.0,66.0,92.7,153,ASD,Minimally Invasive,1,0
+5,23.2,Female,94.0,61.0,86.6,161,ASD,Minimally Invasive,4,1
+3,36.4,Male,62.0,62.0,91.4,101,PDA,Minimally Invasive,2,0
+12,23.7,Male,99.0,51.0,91.8,125,PDA,Minimally Invasive,1,0
+4,21.4,Female,97.0,76.0,96.0,170,TOF,Minimally Invasive,4,0
+16,37.2,Male,87.0,47.0,97.6,92,ASD,Open,3,0
+7,26.9,Male,90.0,54.0,93.2,112,PDA,Open,2,0
+13,21.8,Female,100.0,85.0,86.3,84,TOF,Minimally Invasive,2,0
+10,16.6,Male,91.0,66.0,88.6,169,ASD,Open,1,0
+7,22.2,Female,109.0,67.0,87.5,156,VSD,Open,2,0
+14,19.5,Male,89.0,71.0,86.9,106,VSD,Minimally Invasive,4,0
+5,20.6,Male,102.0,50.0,90.5,157,PDA,Open,4,0
+3,29.2,Female,118.0,51.0,88.4,103,TOF,Open,6,0
+11,16.2,Female,99.0,61.0,88.3,146,VSD,Open,1,1
+11,23.6,Male,105.0,56.0,85.8,142,TOF,Minimally Invasive,4,0
+15,26.6,Female,104.0,64.0,85.3,173,TOF,Minimally Invasive,0,1
+12,15.4,Male,100.0,70.0,86.5,178,VSD,Open,2,0
+9,14.2,Male,99.0,79.0,87.6,127,TOF,Open,2,0
+10,18.9,Female,91.0,73.0,91.5,142,VSD,Open,2,0
+12,16.8,Male,102.0,55.0,92.7,157,PDA,Open,1,0
+17,28.1,Male,96.0,61.0,87.1,91,ASD,Open,3,0
+6,13.0,Female,123.0,59.0,91.4,107,ASD,Open,5,0
+7,20.5,Female,112.0,55.0,90.1,123,PDA,Minimally Invasive,1,1
+14,37.8,Male,78.0,53.0,87.8,172,VSD,Open,2,0
+13,22.9,Female,79.0,82.0,85.1,122,VSD,Open,5,0
+8,24.1,Female,98.0,65.0,92.0,96,VSD,Minimally Invasive,2,1
+10,28.1,Female,94.0,63.0,95.3,119,VSD,Open,2,1
+9,16.8,Female,97.0,70.0,88.4,128,PDA,Open,4,1
+2,12.4,Male,110.0,70.0,87.0,164,ASD,Open,2,0
+5,21.2,Male,105.0,76.0,98.3,136,TOF,Open,2,0
+5,21.9,Male,105.0,58.0,89.1,166,TOF,Minimally Invasive,3,0
+6,8.7,Female,122.0,69.0,88.4,163,ASD,Open,4,0
+8,22.6,Female,79.0,56.0,97.9,143,PDA,Minimally Invasive,4,0
+16,27.5,Female,102.0,63.0,97.3,154,TOF,Open,4,0
+13,13.6,Female,91.0,66.0,91.7,136,ASD,Open,5,0
+1,23.0,Female,122.0,67.0,92.3,177,PDA,Minimally Invasive,2,0
+17,26.2,Female,67.0,66.0,88.3,153,TOF,Open,0,0
+7,24.1,Female,68.0,73.0,86.2,153,VSD,Minimally Invasive,3,0
+13,24.8,Male,105.0,59.0,93.6,149,VSD,Minimally Invasive,3,0
+4,18.3,Male,117.0,67.0,86.5,179,PDA,Minimally Invasive,2,1
+4,12.1,Female,112.0,57.0,91.7,167,VSD,Open,3,0
+6,16.9,Female,88.0,94.0,99.1,155,PDA,Open,5,0
+12,15.9,Female,123.0,56.0,99.3,122,ASD,Open,1,0
+7,19.4,Male,82.0,58.0,88.6,102,ASD,Open,2,0
+10,27.7,Male,120.0,74.0,94.4,106,TOF,Minimally Invasive,4,0
+7,10.8,Female,84.0,61.0,92.1,137,PDA,Open,2,1
+3,21.0,Female,95.0,74.0,98.1,116,TOF,Open,0,0
+13,12.6,Male,110.0,67.0,89.1,85,TOF,Minimally Invasive,5,0
+13,14.8,Male,78.0,61.0,85.1,144,ASD,Minimally Invasive,0,0
+8,23.9,Male,122.0,57.0,87.4,85,TOF,Open,2,0
+9,11.7,Male,95.0,57.0,90.2,129,VSD,Minimally Invasive,3,1
+7,25.1,Female,102.0,61.0,89.7,101,TOF,Minimally Invasive,2,0
+1,10.5,Male,117.0,63.0,96.9,167,PDA,Minimally Invasive,6,0
+3,24.7,Male,88.0,57.0,95.2,104,VSD,Minimally Invasive,5,0
+13,9.2,Female,116.0,64.0,89.5,158,ASD,Minimally Invasive,3,0
+17,15.7,Male,125.0,54.0,91.9,169,PDA,Open,4,0
+1,33.3,Male,90.0,73.0,86.4,151,VSD,Open,5,0
+6,32.0,Male,121.0,74.0,98.5,130,PDA,Open,2,0
+6,17.1,Female,74.0,58.0,99.0,167,VSD,Open,2,0
+12,22.7,Male,106.0,57.0,99.7,127,PDA,Open,4,0
+13,28.4,Female,82.0,67.0,98.0,149,PDA,Open,4,1
+13,24.8,Female,114.0,78.0,87.6,178,VSD,Open,7,0
+15,18.1,Male,113.0,80.0,85.7,144,ASD,Minimally Invasive,6,0
+16,14.8,Male,131.0,51.0,93.7,139,ASD,Open,4,1
+11,26.1,Male,121.0,75.0,98.7,125,PDA,Open,3,0
+5,27.9,Male,98.0,64.0,87.7,115,PDA,Open,5,0
+4,32.0,Female,84.0,65.0,85.1,137,ASD,Minimally Invasive,2,0
+3,8.2,Male,108.0,70.0,97.1,155,ASD,Open,6,0
+15,11.2,Male,99.0,60.0,86.2,117,TOF,Open,2,1
+9,28.1,Male,123.0,76.0,91.2,90,ASD,Minimally Invasive,6,0
+17,9.1,Female,68.0,79.0,95.2,91,PDA,Open,3,0
+14,28.7,Male,133.0,80.0,88.6,121,VSD,Open,2,0
+15,18.5,Male,108.0,47.0,86.3,118,ASD,Minimally Invasive,5,0
+1,16.4,Female,88.0,63.0,96.6,150,TOF,Open,3,1
+3,21.4,Female,111.0,46.0,94.5,90,TOF,Minimally Invasive,2,0
+16,10.6,Male,119.0,57.0,99.8,115,TOF,Open,2,0
+11,25.8,Male,102.0,41.0,90.2,131,VSD,Open,1,0
+12,31.8,Male,74.0,70.0,85.9,110,ASD,Open,4,0
+10,26.1,Male,96.0,67.0,96.0,112,ASD,Minimally Invasive,2,0
+16,18.3,Male,116.0,61.0,92.8,92,ASD,Minimally Invasive,3,0
+8,9.2,Female,107.0,57.0,88.2,97,VSD,Minimally Invasive,2,0
+6,9.5,Female,98.0,68.0,96.7,120,VSD,Open,3,0
+12,10.7,Male,120.0,55.0,88.1,137,PDA,Open,2,1
+8,19.9,Male,111.0,54.0,88.9,135,TOF,Minimally Invasive,0,0
+4,20.8,Female,112.0,53.0,86.4,103,TOF,Minimally Invasive,2,0
+8,26.1,Male,94.0,63.0,91.0,152,ASD,Open,3,1
+5,7.4,Male,92.0,59.0,91.3,110,VSD,Open,1,0
+9,29.2,Male,75.0,61.0,92.7,134,VSD,Open,2,1
+4,24.9,Male,96.0,70.0,95.6,89,ASD,Open,3,1
+17,17.7,Male,114.0,75.0,98.6,139,ASD,Minimally Invasive,1,0
+9,11.7,Female,97.0,80.0,87.1,81,PDA,Open,4,0
+1,28.7,Male,107.0,66.0,85.8,94,TOF,Open,1,0
+13,17.9,Male,117.0,68.0,85.3,82,TOF,Open,5,0
+16,19.9,Male,106.0,67.0,87.2,122,TOF,Open,1,0
+13,22.7,Female,107.0,48.0,94.9,110,PDA,Open,1,0
+14,13.6,Female,80.0,61.0,95.9,149,ASD,Open,5,0
+3,18.0,Female,95.0,61.0,96.8,146,ASD,Open,0,0
+6,26.1,Female,126.0,60.0,88.7,135,TOF,Minimally Invasive,2,0
+5,25.3,Male,102.0,65.0,89.6,142,TOF,Minimally Invasive,2,1
+15,25.4,Female,128.0,63.0,92.2,154,PDA,Minimally Invasive,4,0
+2,11.9,Male,89.0,55.0,85.9,94,VSD,Open,2,0
+10,18.3,Male,104.0,63.0,94.2,171,VSD,Minimally Invasive,4,0
+13,17.2,Female,94.0,59.0,99.8,89,TOF,Open,5,1
+5,23.0,Female,109.0,39.0,90.4,117,PDA,Open,2,1
+1,22.3,Female,113.0,51.0,96.3,126,TOF,Open,3,0
+1,21.1,Female,109.0,66.0,92.5,136,VSD,Open,4,1
+15,37.3,Female,116.0,76.0,86.9,129,TOF,Minimally Invasive,5,0
+17,18.0,Male,100.0,41.0,93.7,150,VSD,Open,2,1
+11,17.1,Female,97.0,56.0,89.5,94,VSD,Open,4,0
+17,11.9,Female,74.0,69.0,85.5,97,VSD,Minimally Invasive,4,0
+13,9.2,Female,110.0,74.0,94.5,161,ASD,Minimally Invasive,2,0
+1,11.5,Male,103.0,61.0,97.9,167,ASD,Minimally Invasive,3,0
+2,15.0,Female,99.0,58.0,90.2,81,TOF,Open,0,0
+9,29.2,Male,97.0,77.0,90.9,163,VSD,Minimally Invasive,7,0
+3,20.3,Female,99.0,73.0,98.4,177,ASD,Open,0,1
+1,21.4,Female,96.0,74.0,97.2,122,TOF,Open,0,0
+16,19.3,Male,92.0,60.0,95.7,105,TOF,Minimally Invasive,1,0
+6,22.6,Female,104.0,76.0,88.7,150,TOF,Minimally Invasive,1,0
+17,29.8,Male,107.0,46.0,98.7,117,TOF,Minimally Invasive,0,0
+5,6.0,Male,88.0,76.0,87.3,173,TOF,Open,1,1
+5,28.5,Male,94.0,64.0,94.4,121,PDA,Open,5,0
+6,2.4,Female,97.0,66.0,85.4,84,VSD,Open,0,0
+3,20.2,Female,100.0,56.0,94.7,90,TOF,Open,6,0
+5,35.3,Female,98.0,47.0,89.2,144,PDA,Open,3,0
+5,24.8,Male,110.0,66.0,91.7,113,VSD,Open,4,1
+10,22.6,Female,75.0,71.0,90.2,80,ASD,Minimally Invasive,0,0
+10,34.0,Male,78.0,72.0,87.6,162,TOF,Open,7,1
+17,15.1,Female,103.0,71.0,94.3,81,PDA,Minimally Invasive,4,0
+14,23.0,Male,91.0,69.0,98.2,164,ASD,Minimally Invasive,0,0
+9,24.0,Male,113.0,56.0,99.4,99,PDA,Minimally Invasive,2,1
+14,16.3,Male,118.0,73.0,87.9,140,VSD,Minimally Invasive,8,0
+1,17.0,Female,104.0,55.0,95.8,166,VSD,Minimally Invasive,3,0
+13,16.2,Male,84.0,76.0,95.0,100,ASD,Open,2,0
+13,20.6,Male,116.0,64.0,90.2,167,PDA,Open,3,0
+4,23.8,Male,103.0,64.0,85.3,147,TOF,Open,4,1
+1,20.9,Male,78.0,74.0,95.3,91,TOF,Open,1,0
+17,25.0,Male,79.0,75.0,99.2,101,ASD,Minimally Invasive,5,1
+8,6.2,Male,123.0,73.0,94.5,99,ASD,Minimally Invasive,1,0
+2,18.5,Female,120.0,57.0,91.5,161,ASD,Minimally Invasive,5,0
+8,12.8,Female,62.0,73.0,92.9,80,PDA,Open,2,0
+7,22.1,Male,80.0,57.0,88.0,109,TOF,Open,1,0
+2,22.0,Female,117.0,73.0,96.3,176,TOF,Open,0,1
+3,19.2,Female,100.0,51.0,96.2,103,TOF,Open,2,0
+12,23.6,Male,111.0,64.0,87.2,93,ASD,Minimally Invasive,1,0
+1,27.0,Male,99.0,57.0,98.2,115,TOF,Minimally Invasive,2,1
+12,19.6,Male,110.0,74.0,89.0,148,VSD,Open,0,0
+5,12.6,Female,100.0,76.0,99.7,154,ASD,Open,3,0
+17,8.9,Male,93.0,67.0,90.7,103,TOF,Minimally Invasive,6,1
+16,20.3,Female,116.0,67.0,87.7,139,PDA,Minimally Invasive,2,0
+15,21.7,Male,103.0,72.0,90.3,174,ASD,Minimally Invasive,0,0
+15,13.2,Female,110.0,76.0,91.6,134,VSD,Minimally Invasive,2,0
+5,25.1,Male,102.0,65.0,86.0,156,VSD,Open,1,0
+14,16.8,Male,93.0,60.0,93.7,159,PDA,Minimally Invasive,6,0
+2,8.4,Female,124.0,71.0,94.0,103,PDA,Minimally Invasive,4,0
+11,28.8,Female,105.0,46.0,96.1,156,ASD,Minimally Invasive,1,0
+7,28.0,Female,95.0,74.0,85.4,103,ASD,Minimally Invasive,2,0
+6,5.9,Female,119.0,58.0,93.1,133,VSD,Open,5,1
+2,16.1,Female,80.0,63.0,85.8,105,PDA,Open,2,0
+6,15.8,Female,134.0,74.0,95.5,145,ASD,Open,3,0
+2,31.5,Male,97.0,61.0,85.8,159,VSD,Open,2,0
+15,19.3,Female,81.0,71.0,98.7,117,PDA,Open,1,0
+2,9.5,Male,129.0,76.0,95.5,144,VSD,Open,5,0
+6,26.2,Male,93.0,66.0,92.6,154,TOF,Minimally Invasive,3,0
+1,11.4,Female,104.0,68.0,91.6,130,PDA,Minimally Invasive,3,0
+15,18.2,Male,111.0,64.0,87.0,114,ASD,Minimally Invasive,2,0
+10,14.6,Female,118.0,66.0,89.4,122,ASD,Minimally Invasive,5,0
+17,16.1,Female,104.0,54.0,98.0,108,TOF,Open,2,0
+5,26.6,Male,90.0,62.0,98.6,116,PDA,Minimally Invasive,2,0
+4,30.6,Male,103.0,52.0,85.0,160,VSD,Open,2,0
+10,11.1,Female,94.0,56.0,93.9,137,ASD,Minimally Invasive,0,0
+17,24.4,Female,104.0,45.0,95.8,133,TOF,Minimally Invasive,3,0
+10,14.9,Male,124.0,68.0,94.3,118,TOF,Minimally Invasive,5,0
+17,15.1,Male,111.0,82.0,86.2,121,PDA,Open,2,0
+5,23.4,Male,103.0,60.0,88.3,107,PDA,Minimally Invasive,2,0
+2,12.8,Male,111.0,75.0,88.8,108,ASD,Open,4,1
+6,23.3,Female,112.0,76.0,97.5,122,TOF,Open,5,1
+2,25.1,Female,84.0,53.0,91.9,82,VSD,Minimally Invasive,4,0
+13,17.0,Female,101.0,55.0,92.3,89,TOF,Open,2,0
+11,29.3,Female,138.0,75.0,99.0,138,VSD,Open,2,0
+11,11.1,Male,118.0,64.0,94.6,93,VSD,Minimally Invasive,2,0
+16,29.4,Male,92.0,52.0,98.5,155,ASD,Minimally Invasive,2,0
+11,6.4,Female,91.0,59.0,91.8,126,TOF,Minimally Invasive,2,0
+15,38.9,Female,90.0,69.0,87.2,121,VSD,Minimally Invasive,3,0
+16,17.2,Female,113.0,57.0,98.9,173,PDA,Minimally Invasive,5,0
+11,11.9,Female,124.0,37.0,91.9,111,VSD,Minimally Invasive,3,1
+16,18.4,Female,109.0,62.0,87.7,111,PDA,Open,3,0
+8,12.7,Female,102.0,63.0,89.5,121,PDA,Minimally Invasive,5,0
+4,22.7,Female,93.0,65.0,85.8,111,TOF,Minimally Invasive,4,0
+8,29.6,Female,105.0,78.0,92.0,105,PDA,Open,1,0
+4,13.0,Female,88.0,66.0,97.8,80,VSD,Minimally Invasive,2,1
+3,24.1,Male,71.0,67.0,99.0,135,PDA,Open,1,0
+3,9.3,Female,125.0,76.0,99.0,81,TOF,Minimally Invasive,5,0
+5,27.2,Male,85.0,65.0,86.9,160,ASD,Minimally Invasive,0,0
+10,22.9,Male,95.0,86.0,90.7,109,VSD,Open,5,1
+6,27.5,Female,110.0,52.0,85.4,150,VSD,Minimally Invasive,4,1
+1,19.1,Female,122.0,56.0,97.8,131,TOF,Open,3,0
+5,17.0,Male,104.0,71.0,90.4,170,TOF,Minimally Invasive,3,0
+9,25.7,Male,82.0,78.0,94.5,88,TOF,Minimally Invasive,3,0
+12,10.8,Female,95.0,63.0,95.7,101,TOF,Open,1,0
+14,7.8,Male,90.0,55.0,91.4,113,VSD,Minimally Invasive,1,1
+2,20.0,Female,99.0,83.0,89.6,128,ASD,Minimally Invasive,2,0
+17,17.3,Female,118.0,57.0,99.4,80,PDA,Open,3,1
+14,23.9,Female,62.0,68.0,99.5,152,PDA,Minimally Invasive,3,0
+13,27.6,Male,94.0,78.0,89.3,163,ASD,Open,3,1
+9,23.7,Male,93.0,61.0,92.2,132,ASD,Minimally Invasive,4,0
+15,27.1,Female,81.0,59.0,99.6,162,ASD,Open,5,1
+15,22.2,Male,109.0,59.0,85.1,179,TOF,Minimally Invasive,2,0
+11,23.5,Male,79.0,74.0,91.2,119,VSD,Open,2,0
+16,19.2,Male,81.0,76.0,86.5,124,VSD,Open,3,0
+17,23.3,Male,113.0,65.0,92.6,147,VSD,Minimally Invasive,2,0
+4,21.2,Male,123.0,84.0,85.4,88,TOF,Minimally Invasive,4,0
+1,22.3,Male,99.0,65.0,91.1,101,VSD,Open,5,1
+8,18.8,Male,82.0,78.0,88.3,97,TOF,Minimally Invasive,4,0
+17,25.7,Female,89.0,61.0,93.0,155,VSD,Open,4,0
+3,15.0,Male,115.0,88.0,99.9,122,ASD,Minimally Invasive,5,0
+15,19.9,Male,102.0,81.0,97.0,118,PDA,Minimally Invasive,2,1
+15,29.2,Male,98.0,64.0,97.7,152,PDA,Open,5,0
+14,13.4,Male,105.0,79.0,94.5,85,TOF,Open,1,0
+14,4.9,Male,99.0,79.0,85.6,162,VSD,Minimally Invasive,2,0
+2,22.6,Male,123.0,81.0,88.1,127,PDA,Minimally Invasive,3,0
+13,18.2,Male,89.0,40.0,98.9,86,ASD,Minimally Invasive,3,0
+14,27.1,Male,87.0,72.0,90.5,159,ASD,Minimally Invasive,3,0
+7,19.1,Female,79.0,70.0,86.6,148,ASD,Minimally Invasive,2,0
+3,15.8,Male,92.0,70.0,95.5,95,TOF,Open,5,0
+15,19.5,Male,84.0,67.0,89.5,80,TOF,Minimally Invasive,3,0
+14,27.7,Male,103.0,67.0,89.0,116,VSD,Minimally Invasive,2,0
+11,24.0,Male,100.0,78.0,100.0,162,ASD,Open,3,0
+15,3.0,Female,84.0,70.0,97.9,116,VSD,Open,6,0
+13,21.3,Female,109.0,67.0,91.1,160,VSD,Open,8,0
+6,21.7,Female,123.0,76.0,99.7,143,ASD,Minimally Invasive,3,0
+3,19.9,Female,105.0,69.0,94.8,169,VSD,Open,0,0
+15,15.7,Female,62.0,70.0,96.1,165,PDA,Open,5,0
+5,28.4,Female,130.0,84.0,85.5,141,TOF,Open,3,0
+10,28.7,Female,111.0,61.0,86.8,151,VSD,Open,4,0
+7,4.6,Female,129.0,50.0,94.5,140,ASD,Minimally Invasive,3,0
+17,14.4,Female,116.0,66.0,98.5,112,TOF,Minimally Invasive,2,0
+7,19.0,Female,119.0,67.0,94.4,145,TOF,Minimally Invasive,3,1
+12,26.6,Female,103.0,72.0,87.0,109,VSD,Open,1,0
+17,20.2,Female,96.0,66.0,86.7,99,PDA,Open,3,0
+13,15.2,Female,106.0,73.0,97.7,139,VSD,Open,0,0
+4,25.0,Female,89.0,90.0,87.1,161,PDA,Open,1,0
+10,18.5,Female,107.0,73.0,92.8,153,TOF,Open,3,0
+3,19.2,Female,61.0,75.0,85.6,103,VSD,Open,1,0
+9,19.8,Male,101.0,64.0,86.2,83,ASD,Minimally Invasive,0,1
+13,24.0,Female,120.0,51.0,95.1,116,VSD,Minimally Invasive,0,0
+15,17.8,Male,101.0,42.0,95.3,83,PDA,Open,4,0
+4,24.8,Female,126.0,60.0,90.1,156,PDA,Minimally Invasive,3,0
+15,19.5,Female,96.0,39.0,88.2,168,VSD,Open,4,0
+2,12.5,Male,115.0,70.0,97.2,156,PDA,Open,7,0
+15,19.7,Female,87.0,61.0,88.3,97,TOF,Minimally Invasive,3,0
+8,12.9,Male,114.0,52.0,93.1,167,VSD,Open,1,0
+8,20.3,Male,103.0,66.0,99.5,145,PDA,Minimally Invasive,3,0
+17,25.8,Male,97.0,58.0,87.2,127,VSD,Open,3,1
+12,12.5,Female,61.0,70.0,99.1,112,VSD,Open,2,0
+10,22.5,Female,96.0,72.0,87.7,137,ASD,Minimally Invasive,7,0
+9,14.2,Female,103.0,58.0,93.5,162,VSD,Open,2,0
+5,21.4,Male,112.0,63.0,90.7,152,ASD,Open,4,0
+6,26.0,Male,123.0,67.0,99.5,107,PDA,Open,3,1
+2,5.1,Female,131.0,51.0,89.1,114,ASD,Minimally Invasive,2,0
+13,12.2,Female,119.0,67.0,91.0,89,ASD,Open,0,0
+6,17.4,Female,92.0,51.0,99.7,144,ASD,Open,7,0
+5,22.2,Female,95.0,71.0,93.0,121,TOF,Open,5,0
+1,18.8,Female,111.0,61.0,92.5,164,ASD,Minimally Invasive,5,0
+6,19.7,Male,108.0,51.0,88.9,88,VSD,Minimally Invasive,1,0
+6,34.3,Male,124.0,59.0,95.5,139,ASD,Minimally Invasive,4,1
+16,11.5,Male,137.0,60.0,85.2,94,VSD,Minimally Invasive,4,1
+4,27.9,Female,134.0,76.0,85.7,178,ASD,Minimally Invasive,2,0
+11,17.6,Male,122.0,67.0,94.0,136,TOF,Open,1,0
+9,23.8,Male,108.0,55.0,90.1,148,PDA,Minimally Invasive,4,0
+3,34.9,Male,120.0,81.0,99.3,101,ASD,Minimally Invasive,5,0
+8,24.8,Male,125.0,71.0,98.5,143,ASD,Open,5,0
+5,22.6,Male,98.0,62.0,95.7,120,TOF,Minimally Invasive,2,0
+4,31.2,Female,92.0,49.0,97.3,166,ASD,Open,6,0
+6,27.9,Male,88.0,61.0,95.0,150,VSD,Minimally Invasive,3,0
+2,14.4,Female,87.0,63.0,86.9,135,ASD,Open,4,1
+11,22.1,Female,79.0,69.0,96.5,102,ASD,Open,4,1
+4,8.0,Female,104.0,71.0,88.2,104,PDA,Minimally Invasive,2,0
+15,16.2,Female,85.0,73.0,89.9,170,PDA,Minimally Invasive,10,1
+6,22.2,Female,88.0,49.0,97.3,85,ASD,Open,4,0
+17,15.8,Male,111.0,67.0,93.0,113,TOF,Open,3,0
+6,21.9,Male,103.0,63.0,97.9,142,PDA,Open,0,0
+2,19.9,Female,106.0,92.0,88.2,88,ASD,Open,2,0
+15,23.8,Female,120.0,66.0,94.1,139,PDA,Open,2,1
+11,17.0,Female,113.0,59.0,86.3,128,ASD,Open,1,0
+8,13.4,Male,123.0,66.0,94.6,176,PDA,Open,4,1
+13,30.3,Female,101.0,65.0,96.4,130,PDA,Minimally Invasive,4,0
+12,16.5,Male,124.0,45.0,93.8,139,VSD,Open,2,0
+5,24.6,Female,105.0,69.0,89.0,149,ASD,Minimally Invasive,3,0
+6,30.0,Male,103.0,62.0,85.5,116,ASD,Minimally Invasive,6,0
+4,21.1,Female,122.0,65.0,86.8,110,ASD,Open,2,0
+1,14.0,Male,87.0,56.0,94.3,177,ASD,Open,2,0
+17,18.7,Female,130.0,54.0,99.0,120,PDA,Minimally Invasive,4,0
+12,27.1,Male,96.0,74.0,88.1,141,VSD,Open,5,0
+15,21.4,Male,82.0,76.0,96.0,172,VSD,Open,2,0
+1,11.6,Male,110.0,69.0,98.0,137,TOF,Minimally Invasive,2,0
+14,24.2,Male,94.0,47.0,92.8,93,ASD,Minimally Invasive,4,0
+6,25.4,Male,130.0,70.0,95.0,115,TOF,Minimally Invasive,3,0
+5,17.5,Male,94.0,47.0,97.2,115,PDA,Open,4,0
+11,24.3,Male,105.0,58.0,88.9,158,TOF,Open,3,1
+4,21.7,Female,79.0,74.0,89.5,87,ASD,Minimally Invasive,2,0
+13,18.6,Female,112.0,72.0,85.0,105,VSD,Open,5,0
+11,10.9,Female,88.0,70.0,99.4,115,VSD,Minimally Invasive,0,1
+3,27.5,Female,110.0,78.0,98.8,127,ASD,Open,4,1
+1,25.3,Female,94.0,71.0,96.5,164,PDA,Minimally Invasive,3,1
+6,24.1,Male,69.0,45.0,86.2,107,ASD,Open,1,0
+10,30.8,Male,102.0,61.0,91.7,147,PDA,Minimally Invasive,4,0
+5,26.6,Male,101.0,65.0,86.5,141,VSD,Open,4,0
+10,24.8,Male,113.0,63.0,85.2,159,PDA,Open,3,0
+12,4.5,Male,123.0,59.0,94.2,165,ASD,Minimally Invasive,0,1
+2,28.4,Female,129.0,55.0,99.4,155,ASD,Open,3,0
+13,20.6,Female,113.0,89.0,98.5,159,ASD,Open,5,0
+8,22.2,Female,104.0,61.0,95.5,130,PDA,Minimally Invasive,1,0
+2,22.2,Female,79.0,89.0,86.4,121,PDA,Open,5,0
+1,25.4,Male,103.0,54.0,89.1,108,PDA,Open,2,0
+5,27.9,Male,103.0,72.0,89.8,161,VSD,Open,2,0
+9,24.4,Male,97.0,67.0,96.4,89,TOF,Minimally Invasive,2,1
+17,23.3,Female,109.0,56.0,97.0,118,TOF,Minimally Invasive,3,1
+9,21.6,Male,117.0,60.0,90.8,161,ASD,Minimally Invasive,5,0
+11,-3.5,Female,88.0,65.0,91.3,80,VSD,Minimally Invasive,5,0
+15,18.0,Male,87.0,57.0,85.7,118,PDA,Minimally Invasive,2,0
+6,13.4,Male,98.0,62.0,89.3,100,ASD,Open,3,0
+3,28.5,Female,91.0,41.0,91.8,144,VSD,Open,0,1
+17,24.3,Male,75.0,72.0,86.8,94,ASD,Minimally Invasive,4,0
+5,16.8,Male,85.0,77.0,91.8,83,VSD,Open,2,0
+12,17.5,Female,82.0,70.0,97.8,139,VSD,Open,8,0
+14,17.2,Male,118.0,88.0,93.7,140,TOF,Open,5,0
+11,17.1,Female,126.0,72.0,86.2,99,ASD,Open,4,0
+9,9.9,Male,84.0,76.0,87.9,89,PDA,Minimally Invasive,3,0
+2,8.4,Male,108.0,77.0,92.1,166,TOF,Minimally Invasive,3,0
+12,20.2,Male,113.0,37.0,90.4,113,TOF,Open,1,0
+3,27.5,Male,78.0,69.0,90.4,127,PDA,Open,1,0
+3,16.2,Male,102.0,51.0,92.9,112,VSD,Minimally Invasive,3,1
+1,22.1,Male,138.0,53.0,93.8,177,PDA,Open,4,0
+8,25.1,Male,110.0,55.0,97.0,140,ASD,Open,2,0
+8,13.0,Male,96.0,62.0,90.1,89,PDA,Open,2,0
+11,19.9,Female,92.0,72.0,97.1,133,VSD,Minimally Invasive,4,0
+9,15.3,Female,70.0,69.0,90.1,163,PDA,Minimally Invasive,2,0
+5,31.2,Male,107.0,65.0,85.8,144,VSD,Open,3,1
+14,30.9,Male,129.0,72.0,93.3,156,VSD,Open,2,0
+3,13.1,Female,88.0,73.0,93.8,80,ASD,Open,1,0
+5,22.7,Male,71.0,69.0,99.0,84,PDA,Open,4,0
+5,27.5,Male,90.0,48.0,95.9,159,PDA,Open,3,0
+14,25.9,Female,113.0,58.0,98.8,94,ASD,Open,2,0
+4,20.6,Male,94.0,65.0,98.6,107,VSD,Minimally Invasive,4,1
+13,29.1,Male,88.0,72.0,94.1,174,PDA,Minimally Invasive,2,0
+10,13.7,Female,100.0,52.0,92.9,102,ASD,Open,3,0
+8,17.9,Male,103.0,65.0,93.4,96,VSD,Minimally Invasive,0,0
+8,13.9,Male,79.0,49.0,99.7,177,ASD,Open,4,0
+7,25.5,Female,97.0,75.0,96.6,92,PDA,Open,4,0
+8,15.9,Male,93.0,67.0,86.6,93,ASD,Minimally Invasive,3,0
+14,18.8,Female,90.0,52.0,96.7,90,TOF,Minimally Invasive,0,0
+6,24.3,Male,85.0,51.0,87.6,107,VSD,Open,0,0
+1,24.9,Male,114.0,69.0,91.7,121,TOF,Open,3,0
+15,13.7,Female,90.0,79.0,88.2,175,TOF,Minimally Invasive,2,0
+1,27.4,Female,70.0,54.0,95.3,178,VSD,Minimally Invasive,3,0
+17,23.2,Male,104.0,73.0,98.2,140,VSD,Open,2,0
+1,12.4,Female,111.0,60.0,89.4,143,ASD,Open,6,0
+15,10.7,Female,88.0,73.0,86.2,110,VSD,Open,4,0
+2,19.9,Male,92.0,72.0,89.5,160,TOF,Minimally Invasive,3,0
+14,26.0,Male,90.0,67.0,95.1,152,TOF,Open,4,0
+8,26.1,Male,95.0,47.0,89.9,89,PDA,Minimally Invasive,6,1
+8,22.5,Female,117.0,72.0,89.2,87,VSD,Open,3,0
+7,20.3,Female,98.0,70.0,87.8,100,TOF,Minimally Invasive,0,0
+6,23.6,Female,113.0,69.0,92.5,156,PDA,Minimally Invasive,0,0
+6,14.0,Female,85.0,67.0,89.1,138,PDA,Minimally Invasive,7,0
+3,31.8,Male,94.0,56.0,96.0,129,ASD,Minimally Invasive,5,0
+7,31.7,Female,114.0,76.0,86.1,148,TOF,Open,2,0
+8,23.0,Male,88.0,74.0,95.0,149,ASD,Minimally Invasive,6,0
+10,21.4,Female,115.0,54.0,88.6,109,TOF,Minimally Invasive,6,0
+15,17.1,Male,91.0,78.0,92.3,174,ASD,Minimally Invasive,2,0
+15,23.7,Male,95.0,66.0,89.3,96,ASD,Open,4,0
+1,15.2,Male,125.0,66.0,95.8,154,VSD,Open,2,0
+7,4.4,Female,93.0,63.0,99.2,99,ASD,Open,1,0
+4,1.0,Male,102.0,64.0,98.8,127,VSD,Open,5,0
+6,14.4,Male,109.0,79.0,93.8,152,PDA,Open,7,0
+1,21.1,Female,103.0,75.0,91.9,81,TOF,Open,0,0
+5,22.3,Male,104.0,75.0,97.3,116,PDA,Minimally Invasive,2,0
+1,16.6,Female,99.0,67.0,95.2,80,TOF,Minimally Invasive,0,0
+4,21.0,Female,80.0,74.0,87.8,83,PDA,Minimally Invasive,4,0
+2,18.1,Male,105.0,57.0,97.3,179,TOF,Open,5,1
+10,13.0,Male,89.0,71.0,91.4,133,ASD,Minimally Invasive,2,0
+5,19.6,Female,112.0,63.0,87.8,104,TOF,Minimally Invasive,1,0
+10,25.7,Male,121.0,44.0,89.2,82,TOF,Open,3,0
+1,13.3,Female,73.0,49.0,89.0,88,PDA,Minimally Invasive,2,0
+6,13.3,Female,121.0,58.0,92.8,165,PDA,Open,3,0
+13,12.5,Female,94.0,69.0,88.5,166,PDA,Minimally Invasive,3,0
+15,6.4,Male,98.0,58.0,86.9,155,VSD,Open,5,0
+4,16.6,Female,86.0,59.0,86.9,153,VSD,Open,4,1
+13,25.0,Male,103.0,73.0,93.7,113,TOF,Open,2,0
+15,21.2,Male,101.0,59.0,96.0,122,TOF,Minimally Invasive,7,0
+8,18.8,Male,116.0,78.0,89.8,153,ASD,Minimally Invasive,3,0
+5,20.9,Male,89.0,77.0,85.5,173,ASD,Open,3,1
+15,16.6,Female,125.0,65.0,86.9,101,TOF,Open,0,1
+4,6.4,Male,110.0,73.0,98.7,149,VSD,Minimally Invasive,6,0
+12,25.5,Female,101.0,71.0,92.4,81,TOF,Minimally Invasive,3,0
+13,27.5,Female,97.0,63.0,91.8,173,ASD,Open,0,0
+2,14.9,Male,95.0,74.0,85.6,145,VSD,Minimally Invasive,6,0
+4,18.9,Female,96.0,75.0,95.9,111,VSD,Minimally Invasive,3,0
+4,18.3,Female,103.0,55.0,92.9,95,ASD,Minimally Invasive,6,0
+11,22.5,Male,97.0,67.0,88.0,155,TOF,Open,1,1
+5,31.8,Female,90.0,66.0,86.7,80,PDA,Open,5,0
+11,28.1,Female,103.0,73.0,90.8,151,TOF,Minimally Invasive,4,0
+10,17.4,Female,87.0,61.0,97.6,127,TOF,Open,4,0
+8,23.8,Female,105.0,59.0,98.0,129,ASD,Minimally Invasive,4,0
+6,28.8,Male,97.0,67.0,94.0,92,VSD,Minimally Invasive,1,0
+6,22.9,Female,110.0,77.0,95.9,94,ASD,Open,1,0
+8,20.0,Female,115.0,53.0,86.7,132,TOF,Open,9,0
+15,23.1,Female,115.0,55.0,93.8,123,PDA,Open,6,0
+14,15.1,Female,105.0,60.0,95.0,87,PDA,Minimally Invasive,4,0
+11,16.1,Male,107.0,62.0,88.0,153,PDA,Minimally Invasive,2,0
+12,12.6,Female,95.0,47.0,98.2,125,ASD,Open,3,0
+13,22.1,Male,110.0,80.0,87.9,148,VSD,Open,4,0
+8,19.1,Female,112.0,64.0,89.7,98,ASD,Open,4,0
+1,14.2,Male,76.0,62.0,94.3,117,PDA,Minimally Invasive,2,0
+15,18.9,Male,106.0,81.0,94.6,90,TOF,Minimally Invasive,1,0
+8,23.3,Male,121.0,72.0,95.5,122,VSD,Minimally Invasive,4,0
+11,33.4,Male,95.0,60.0,86.7,99,ASD,Open,1,1
+12,27.1,Male,91.0,67.0,97.7,99,ASD,Open,4,1
+12,4.0,Female,94.0,65.0,93.0,100,VSD,Minimally Invasive,5,0
+4,21.7,Female,77.0,79.0,92.1,161,VSD,Open,2,1
+16,30.0,Female,102.0,63.0,99.7,136,TOF,Open,4,1
+4,10.6,Male,100.0,51.0,96.1,129,VSD,Open,2,1
+5,23.9,Female,103.0,46.0,86.8,153,TOF,Open,3,0
+5,18.3,Male,106.0,80.0,96.3,177,PDA,Minimally Invasive,4,0
+8,28.1,Male,88.0,57.0,86.4,105,PDA,Open,4,0
+10,22.8,Female,104.0,72.0,85.4,109,ASD,Minimally Invasive,3,0
+17,13.8,Female,107.0,66.0,91.1,152,PDA,Minimally Invasive,5,0
+9,18.6,Male,93.0,61.0,99.9,110,PDA,Open,3,0
+14,19.0,Male,106.0,62.0,87.6,121,TOF,Minimally Invasive,2,0
+8,19.1,Female,101.0,81.0,95.1,147,ASD,Minimally Invasive,1,0
+9,27.8,Female,91.0,51.0,87.6,140,VSD,Open,4,0
+11,14.1,Female,104.0,61.0,95.9,140,ASD,Minimally Invasive,2,0
+1,27.0,Female,96.0,74.0,92.6,149,PDA,Minimally Invasive,4,1
+14,17.9,Male,110.0,52.0,95.2,157,VSD,Minimally Invasive,5,0
+5,21.6,Female,96.0,78.0,88.0,147,ASD,Minimally Invasive,0,0
+14,20.5,Female,81.0,74.0,96.2,169,ASD,Minimally Invasive,2,0
+4,19.8,Female,104.0,68.0,99.9,96,ASD,Minimally Invasive,2,0
+1,19.9,Male,103.0,60.0,95.0,98,ASD,Minimally Invasive,2,0
+8,30.2,Male,84.0,51.0,92.4,130,TOF,Minimally Invasive,1,1
+15,25.9,Male,111.0,72.0,98.8,149,ASD,Open,2,0
+15,17.5,Male,110.0,92.0,85.2,142,PDA,Open,2,0
+9,31.1,Female,87.0,66.0,95.9,172,PDA,Open,7,0
+9,21.9,Male,90.0,47.0,98.3,154,TOF,Minimally Invasive,2,0
+10,22.5,Female,98.0,70.0,85.9,159,VSD,Minimally Invasive,3,0
+9,14.1,Female,89.0,74.0,91.8,109,VSD,Minimally Invasive,1,0
+3,16.5,Female,110.0,56.0,88.1,104,PDA,Open,4,0
+11,15.2,Female,102.0,59.0,93.5,154,PDA,Open,2,0
+6,20.6,Male,84.0,58.0,94.7,150,TOF,Open,3,0
+2,24.5,Male,88.0,60.0,89.5,105,VSD,Minimally Invasive,5,0
+7,22.6,Male,118.0,63.0,91.9,135,VSD,Open,3,1
+2,31.1,Female,123.0,56.0,89.2,101,ASD,Open,3,0
+17,13.8,Female,108.0,53.0,90.5,168,ASD,Minimally Invasive,3,1
+11,20.8,Female,97.0,67.0,87.4,98,ASD,Open,4,0
+12,11.0,Female,93.0,63.0,98.3,110,TOF,Minimally Invasive,6,0
+7,13.5,Female,108.0,61.0,85.2,105,PDA,Open,5,0
+6,28.9,Male,101.0,66.0,98.2,121,TOF,Minimally Invasive,1,0
+1,16.8,Female,76.0,50.0,93.6,120,VSD,Minimally Invasive,4,0
+17,14.4,Male,115.0,68.0,90.0,179,PDA,Minimally Invasive,1,0
+11,5.1,Female,120.0,61.0,95.8,102,ASD,Minimally Invasive,3,0
+17,14.3,Female,111.0,67.0,92.6,126,TOF,Minimally Invasive,4,0
+7,18.6,Male,84.0,69.0,92.5,92,TOF,Open,4,0
+17,10.5,Male,90.0,76.0,86.7,168,ASD,Minimally Invasive,5,1
+9,18.2,Female,72.0,66.0,90.8,145,TOF,Minimally Invasive,3,0
+17,28.9,Female,124.0,76.0,88.6,145,ASD,Minimally Invasive,1,0
+8,15.0,Female,95.0,62.0,85.2,95,VSD,Minimally Invasive,1,0
+17,13.4,Female,135.0,62.0,90.4,152,PDA,Open,4,0
+7,12.1,Male,129.0,64.0,86.3,107,VSD,Minimally Invasive,5,0
+1,12.0,Female,86.0,73.0,88.9,156,VSD,Open,2,0
+13,23.7,Male,89.0,71.0,86.4,114,ASD,Minimally Invasive,4,0
+17,20.3,Female,107.0,66.0,86.5,120,TOF,Minimally Invasive,6,0
+13,26.7,Male,74.0,53.0,88.0,156,VSD,Open,3,0
+16,34.1,Male,93.0,71.0,100.0,110,VSD,Open,3,1
+8,7.2,Female,92.0,56.0,85.0,164,VSD,Open,3,0
+1,22.7,Male,128.0,56.0,94.6,111,TOF,Minimally Invasive,2,0
+14,12.2,Female,102.0,54.0,87.1,133,TOF,Open,4,0
+15,25.5,Male,96.0,64.0,98.8,177,ASD,Minimally Invasive,2,1
+2,18.1,Female,91.0,77.0,86.4,151,VSD,Open,1,0
+17,20.2,Male,113.0,55.0,99.3,138,PDA,Open,2,0
+6,11.0,Female,93.0,82.0,94.2,120,TOF,Minimally Invasive,2,0
+4,17.0,Female,99.0,74.0,85.0,145,ASD,Open,4,0
+1,20.6,Male,90.0,50.0,98.4,175,VSD,Open,4,0
+8,29.5,Male,77.0,61.0,92.8,133,PDA,Minimally Invasive,3,1
+7,14.4,Male,85.0,55.0,88.9,119,TOF,Minimally Invasive,4,0
+3,16.1,Male,92.0,72.0,96.5,107,PDA,Minimally Invasive,4,0
+10,26.6,Female,96.0,55.0,98.9,116,TOF,Open,1,0
+10,14.0,Male,97.0,49.0,92.3,144,ASD,Open,5,0
+14,28.0,Female,99.0,62.0,89.7,153,PDA,Open,4,0
+2,19.9,Male,93.0,77.0,96.8,134,VSD,Open,1,1
+1,22.1,Female,120.0,63.0,95.2,83,VSD,Open,5,0
+7,22.6,Female,114.0,69.0,98.3,178,TOF,Minimally Invasive,4,1
+8,15.7,Female,98.0,69.0,95.4,89,VSD,Open,1,1
+1,22.7,Female,104.0,50.0,88.7,126,PDA,Minimally Invasive,2,0
+3,14.6,Male,94.0,56.0,99.0,154,ASD,Open,4,0
+8,16.5,Male,57.0,65.0,86.6,93,TOF,Minimally Invasive,2,0
+15,23.9,Female,100.0,59.0,89.0,117,PDA,Open,6,0
+5,22.1,Male,105.0,82.0,92.8,91,TOF,Open,4,0
+3,19.5,Male,76.0,53.0,93.5,124,ASD,Minimally Invasive,6,0
+1,11.2,Female,107.0,56.0,85.2,96,TOF,Open,4,0
+15,12.9,Male,96.0,68.0,96.7,159,VSD,Minimally Invasive,4,1
+8,21.9,Male,105.0,59.0,90.4,114,VSD,Open,2,1
+2,25.1,Male,96.0,36.0,91.1,145,TOF,Open,1,0
+3,12.2,Female,119.0,84.0,97.1,154,ASD,Minimally Invasive,3,0
+14,14.1,Male,103.0,54.0,90.7,120,ASD,Open,2,0
+14,20.9,Female,115.0,71.0,85.7,146,VSD,Minimally Invasive,4,0
+11,20.8,Male,116.0,52.0,87.6,108,ASD,Open,5,0
+16,8.6,Male,83.0,56.0,99.3,97,TOF,Open,0,0
+4,21.1,Male,89.0,49.0,86.1,99,PDA,Open,5,0
+5,15.8,Female,107.0,58.0,90.3,93,TOF,Open,3,0
+14,31.5,Female,95.0,59.0,92.5,113,VSD,Open,3,0
+16,21.7,Male,96.0,64.0,92.4,128,VSD,Open,5,0
+7,23.0,Female,119.0,61.0,85.1,133,VSD,Open,0,0
+10,23.1,Male,95.0,51.0,92.5,110,ASD,Minimally Invasive,3,1
+7,11.5,Female,85.0,60.0,90.8,137,TOF,Open,1,0
+1,33.6,Female,87.0,79.0,99.6,121,PDA,Open,2,0
+16,8.6,Male,133.0,78.0,87.4,137,TOF,Open,3,0
+4,25.6,Male,97.0,70.0,90.3,161,PDA,Minimally Invasive,1,0
+2,24.3,Male,80.0,72.0,91.3,109,TOF,Minimally Invasive,1,0
+1,16.7,Male,73.0,86.0,90.9,104,VSD,Open,4,0
+15,24.7,Female,91.0,71.0,95.0,142,PDA,Open,5,1
+5,17.8,Female,97.0,71.0,88.2,98,TOF,Open,5,0
+11,15.3,Female,114.0,49.0,88.3,151,ASD,Minimally Invasive,2,0
+10,23.3,Male,113.0,54.0,95.9,171,ASD,Open,2,0
+2,13.0,Male,100.0,65.0,92.5,87,TOF,Minimally Invasive,3,0
+3,18.4,Female,93.0,57.0,91.2,174,VSD,Open,5,0
+12,15.8,Male,105.0,55.0,87.5,82,PDA,Minimally Invasive,6,0
+5,17.6,Female,74.0,56.0,87.8,146,TOF,Minimally Invasive,3,0
+5,23.0,Female,130.0,51.0,85.2,165,ASD,Open,1,0
+6,15.8,Female,110.0,57.0,86.4,160,PDA,Open,2,0
+9,18.7,Female,113.0,68.0,93.4,179,ASD,Open,2,0
+2,16.5,Female,84.0,83.0,98.4,96,ASD,Open,2,0
+12,30.1,Male,119.0,73.0,89.3,93,TOF,Open,2,1
+3,22.4,Male,93.0,71.0,89.9,88,ASD,Open,2,0
+12,21.5,Male,86.0,49.0,86.7,141,PDA,Open,3,0
+17,24.8,Female,99.0,66.0,90.8,173,VSD,Minimally Invasive,4,0
+10,15.8,Female,99.0,64.0,85.6,100,TOF,Open,3,1
+14,26.0,Female,84.0,68.0,98.8,155,PDA,Open,2,0
+17,22.4,Female,87.0,61.0,95.1,116,TOF,Minimally Invasive,2,0
+17,9.1,Male,85.0,82.0,99.9,175,ASD,Open,5,0
+14,10.0,Male,86.0,66.0,98.2,90,ASD,Open,3,0
+9,16.0,Female,94.0,67.0,92.1,99,PDA,Open,2,0
+8,10.8,Female,79.0,45.0,92.8,114,PDA,Open,1,1
+2,18.3,Female,90.0,64.0,87.9,132,VSD,Minimally Invasive,5,1
+13,12.9,Male,116.0,76.0,91.9,126,PDA,Minimally Invasive,2,0
+7,19.3,Male,112.0,71.0,98.5,154,PDA,Open,2,0
+9,29.9,Male,84.0,43.0,85.8,131,TOF,Open,5,0
+11,19.7,Female,114.0,61.0,98.0,87,ASD,Minimally Invasive,2,0
+14,17.9,Female,71.0,82.0,90.1,83,PDA,Open,3,1
+4,22.7,Male,136.0,63.0,98.5,106,VSD,Minimally Invasive,0,0
+13,15.1,Female,120.0,68.0,99.1,123,PDA,Minimally Invasive,0,0
+2,25.9,Male,92.0,81.0,95.1,119,ASD,Minimally Invasive,1,0
+5,23.5,Female,106.0,63.0,95.0,126,PDA,Open,4,1
+11,20.3,Male,79.0,73.0,91.8,173,TOF,Open,6,0
+6,21.1,Female,101.0,69.0,97.5,123,ASD,Open,3,0
+10,34.3,Male,97.0,71.0,99.4,127,PDA,Minimally Invasive,1,0
+4,26.6,Male,87.0,69.0,96.6,170,TOF,Open,0,0
+9,35.4,Male,93.0,60.0,94.3,164,ASD,Open,0,1
+6,23.7,Male,91.0,61.0,94.1,131,PDA,Minimally Invasive,0,0
+2,9.7,Male,83.0,56.0,97.7,163,TOF,Open,1,0
+17,18.2,Male,87.0,49.0,93.1,147,VSD,Open,3,0
+5,8.1,Female,78.0,77.0,97.1,90,TOF,Open,5,0
+6,23.7,Female,113.0,65.0,92.6,156,VSD,Minimally Invasive,7,0
+12,25.2,Female,86.0,77.0,85.9,152,PDA,Open,0,0
+10,13.8,Male,82.0,81.0,90.8,83,TOF,Minimally Invasive,4,0
+6,15.4,Male,113.0,66.0,91.7,155,VSD,Minimally Invasive,2,0
+8,21.0,Female,106.0,52.0,87.1,152,ASD,Minimally Invasive,2,0
+2,11.6,Male,112.0,63.0,86.5,156,TOF,Open,4,1
+12,11.1,Male,114.0,58.0,93.0,127,PDA,Open,0,0
+13,28.7,Male,129.0,45.0,86.3,105,ASD,Open,3,0
+7,20.8,Male,98.0,60.0,89.5,156,VSD,Minimally Invasive,1,1
+10,16.1,Male,78.0,64.0,96.2,118,TOF,Minimally Invasive,3,0
+13,8.2,Female,104.0,59.0,99.5,171,TOF,Open,6,0
+17,26.0,Female,90.0,57.0,95.8,137,PDA,Minimally Invasive,3,0
+14,15.2,Female,86.0,52.0,99.9,98,ASD,Open,5,0
+2,33.0,Female,101.0,67.0,95.5,167,TOF,Open,2,0
+11,26.0,Female,113.0,84.0,89.4,162,TOF,Open,1,0
+1,14.3,Male,87.0,78.0,95.1,156,ASD,Open,4,1
+4,15.0,Male,119.0,72.0,95.5,156,TOF,Open,7,0
+11,32.1,Male,85.0,72.0,90.6,137,ASD,Open,2,0
+8,19.4,Male,96.0,64.0,85.3,107,ASD,Open,4,0
+11,16.4,Female,106.0,47.0,95.5,145,ASD,Minimally Invasive,4,0
+4,20.2,Female,94.0,61.0,85.3,89,PDA,Open,0,0
+17,16.4,Female,73.0,55.0,94.5,165,ASD,Minimally Invasive,5,0
+7,21.7,Male,114.0,67.0,87.5,156,ASD,Minimally Invasive,7,1
+8,19.5,Female,91.0,77.0,93.5,137,VSD,Open,1,0
+3,26.1,Male,111.0,85.0,92.6,152,VSD,Minimally Invasive,2,0
+2,17.3,Female,81.0,66.0,85.2,176,PDA,Minimally Invasive,3,0
+15,13.8,Female,84.0,48.0,90.4,93,ASD,Minimally Invasive,1,0
